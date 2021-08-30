@@ -1,0 +1,13 @@
+node_modules
+.env
+logs
+.DS_Store
+dist
+client/node_modules
+client/.next
+client/package-lock
+client/out
+
+.production.env
+
+client/.env.local
